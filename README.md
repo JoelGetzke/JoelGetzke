@@ -19,7 +19,10 @@ Here are some of my group projects I'm proud of:
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelGetzke&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Get in Touch
 
