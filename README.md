@@ -1,7 +1,7 @@
 👋 Hi, I'm Joel Getzke! Welcome to my GitHub profile. Here, you'll find a collection of my projects, contributions, and more. 
 
 
-## About Me
+<h2 style="color: red;">About Me</h2>
 
 - 👨‍💻 Full Stack Web Developer
 - 🌍 Passionate about front-end perfection, learning code all day, nature 
