@@ -11,7 +11,7 @@
 
 ## Projects
 
-Here are some of my group projects I'm proud of:
+Here are some of my projects I'm proud of:
 
 - Fortune of The Day (https://benwhann.github.io/Fortune-Of-The-Day/):  A weekly fortune web application connected to an API.
 - Sellelegant (https://sellelegant-895b9677e190.herokuapp.com/ ):  An e-commerce, full stack web application, using React.js.
