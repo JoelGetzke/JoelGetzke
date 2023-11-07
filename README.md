@@ -1,4 +1,4 @@
-![mushroom-svgrepo-com](https://github.com/JoelGetzke/JoelGetzke/assets/117139285/016c32ea-7a6d-4fe7-b6ee-30be7c724d88)# Welcome to My GitHub Profile!!
+# Welcome to My GitHub Profile!!
 
 
 👋 Hi, I'm Joel Getzke! Welcome to my GitHub profile. Here, you'll find a collection of my projects, contributions, and more.
