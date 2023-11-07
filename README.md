@@ -2,7 +2,7 @@
 
 
 
-<font color="red"><h2>About Me</h2></font>
+## About Me
 
 - 👨‍💻 Full Stack Web Developer
 - 🌍 Passionate about front-end perfection, learning code all day, nature 
