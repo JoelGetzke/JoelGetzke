@@ -1,4 +1,4 @@
-👋 Hi, I'm Joel Getzke! Welcome to my GitHub profile. Here, you'll find a collection of my projects, contributions, and more. 🍄🍂🍄
+👋 Hi, I'm Joel Getzke! Welcome to my GitHub profile. Here, you'll find a collection of my projects, contributions, and more. 
 
 
 ## About Me
